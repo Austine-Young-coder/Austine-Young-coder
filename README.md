@@ -2,9 +2,9 @@
 
 <img src="aus.png" width="180"/>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Augustine Nweze
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Nweze Augustine Chukwuka
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Creative+Developer;Frontend+Engineer;UI%2FUX+Enthusiast;Building+Cool+Experiences" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Electronics+and+Computer+Engineer;Full-stack+Engineer;UI%2FUX+Enthusiast;Building+Cool+Experiences" />
 
 <p align="center">
 <a href="https://austineyoung.vercel.app">
