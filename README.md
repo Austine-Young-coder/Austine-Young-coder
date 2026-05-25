@@ -58,18 +58,12 @@ Always learning, always building, always improving.
 ---
 
 
-</div>
-
-
-
-<h2 align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/2921/2921222.png" width="24"/>
-Tech Stack
-</h2>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react,nextjs,tailwind,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,react,java,nextjs,threejs,tailwind,git,github,vscode,linux,blender,plus" />
+
 
 </div>
 
