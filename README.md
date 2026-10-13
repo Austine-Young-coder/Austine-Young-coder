@@ -26,7 +26,7 @@
 <div align="center">
 
 I'm an Electronics and Computer Engineering student focused on software development,
-embedded systems, digital products, and interactive experiences.
+embedded systems, digital products, and interactive experience.
 
 I enjoy building web applications, experimenting with new technologies,
 designing interfaces, and combining software with engineering.
@@ -63,7 +63,7 @@ designing interfaces, and combining software with engineering.
 &nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/nweze-augustine-22a78335a">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" alt="LinkedIn"/>
+<img src="https://cdn.simpleicons.org/linked-in/0A66C2" width="32" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
 
@@ -119,9 +119,7 @@ designing interfaces, and combining software with engineering.
 src="https://github-readme-stats.vercel.app/api?username=Austine-Young-coder&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"
 alt="GitHub statistics"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Austine-Young-coder&layout=compact&theme=midnight-purple&hide_border=true"
-alt="Most used languages"/>
+
 
 </div>
 
